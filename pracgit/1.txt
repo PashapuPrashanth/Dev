@@ -1,3 +1,6 @@
 first file
+<<<<<<< HEAD
 sec file
 third file
+=======
+>>>>>>> parent of 6af2de8 (test aug)
