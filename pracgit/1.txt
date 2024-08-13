@@ -1,6 +1,9 @@
 first file
 <<<<<<< HEAD
 sec file
+<<<<<<< HEAD
 third file
 =======
 >>>>>>> parent of 6af2de8 (test aug)
+=======
+>>>>>>> parent of ecebef3 (qwe)
